@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61AB20E429D3C93200817839 /* PartyTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AB20E329D3C93200817839 /* PartyTableCell.swift */; };
 		61BD96EC29D31E5B00125849 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BD96EB29D31E5B00125849 /* AppDelegate.swift */; };
 		61BD96EE29D31E5B00125849 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BD96ED29D31E5B00125849 /* SceneDelegate.swift */; };
 		61BD96F029D31E5B00125849 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BD96EF29D31E5B00125849 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		61AB20E329D3C93200817839 /* PartyTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyTableCell.swift; sourceTree = "<group>"; };
 		61BD96E829D31E5B00125849 /* NBbang.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NBbang.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61BD96EB29D31E5B00125849 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61BD96ED29D31E5B00125849 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				61BD96ED29D31E5B00125849 /* SceneDelegate.swift */,
 				61BD96EF29D31E5B00125849 /* ViewController.swift */,
 				61BD96F129D31E5B00125849 /* Main.storyboard */,
+				61AB20E329D3C93200817839 /* PartyTableCell.swift */,
 				61BD96FF29D31FDD00125849 /* Party.swift */,
 				61BD970129D321D100125849 /* User.swift */,
 				61BD970329D3236F00125849 /* Menu.swift */,
@@ -153,6 +156,7 @@
 				61BD970029D31FDD00125849 /* Party.swift in Sources */,
 				61BD970229D321D100125849 /* User.swift in Sources */,
 				61BD96EE29D31E5B00125849 /* SceneDelegate.swift in Sources */,
+				61AB20E429D3C93200817839 /* PartyTableCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
